@@ -1,12 +1,12 @@
 [![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
-<h1 align="center">Hi 👋, I'm Manu Yadav </h1>
+<h1 align="center">Hi 👋, I'm Manushresth Yadav </h1>
 <h3 align="center">A passionate full stack developer from Gurgaon,India</h3>
 <img align="right" alt="Coding With Manu" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shresthyadav618&label=Profile%20views&color=0e75b6&style=flat" alt="shresthyadav618" /> </p>
 
 <p align="left"> <a href="https://twitter.com/manushresthy" target="blank"><img src="https://img.shields.io/twitter/follow/manushresthy?logo=twitter&style=for-the-badge" alt="manushresthy" /></a> </p>
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **Frontend**
 
