@@ -23,5 +23,18 @@
 
 
 
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=shresthyadav618&theme=radical" alt="sanchitvj" width="400" /></p>
-<p align="center"> <img  src="https://github-readme-stats.vercel.app/api?username=shresthyadav618&show_icons=true&locale=en&theme=radical" alt="sanchitvj" width="400" /></p> 
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=shresthyadav618&theme=radical" alt="ManuShresth Yadav" width="400" /></p>
+<p align="center"> <img  src="https://github-readme-stats.vercel.app/api?username=shresthyadav618&show_icons=true&locale=en&theme=radical" alt="Manushresth Yadav" width="400" /></p> 
+<h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/shresthyadav618">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shresthyadav618&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shresthyadav618&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shresthyadav618&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shresthyadav618&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shresthyadav618&theme=2077" height="180em" />
+</div>
+
+
+
+
