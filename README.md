@@ -22,7 +22,7 @@
 
 <h1>
 
-🌍 Language I use:
+🌍 Languages I use:
 
 </h1>
 
