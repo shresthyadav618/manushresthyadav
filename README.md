@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/manushresthy" target="blank"><img src="https://img.shields.io/twitter/follow/manushresthy?logo=twitter&style=for-the-badge" alt="manushresthy" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **NextJS & Backend**
 
 - 💬 Ask me about **Frontend**
 
