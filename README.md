@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NextJS & Backend**
 
-- 💬 Ask me about **Frontend**
+- 💬 Ask me about **Frontend **
 
 - 📫 How to reach me **shresthm727@gmail.com**
 - actively looking for opportunities ,
