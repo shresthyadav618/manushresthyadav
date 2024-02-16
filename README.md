@@ -11,7 +11,7 @@
 - 💬 Ask me about **Frontend  **
 
 - 📫 How to reach me **shresthm727@gmail.com**
-- actively looking for opportunities ,
+- actively looking for opportunities,
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/manushresthy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manushresthy" height="30" width="40" /></a>
